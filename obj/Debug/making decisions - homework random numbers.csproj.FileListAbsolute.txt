@@ -1,0 +1,14 @@
+C:\Users\zazin\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\bin\Debug\making decisions - homework random numbers.exe.config
+C:\Users\zazin\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\bin\Debug\making decisions - homework random numbers.exe
+C:\Users\zazin\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\bin\Debug\making decisions - homework random numbers.pdb
+C:\Users\zazin\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.csproj.AssemblyReference.cache
+C:\Users\zazin\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.csproj.CoreCompileInputs.cache
+C:\Users\zazin\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.exe
+C:\Users\zazin\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.pdb
+C:\Users\User\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\bin\Debug\making decisions - homework random numbers.exe.config
+C:\Users\User\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\bin\Debug\making decisions - homework random numbers.exe
+C:\Users\User\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\bin\Debug\making decisions - homework random numbers.pdb
+C:\Users\User\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.exe
+C:\Users\User\OneDrive\Desktop\MY WORLD\making decisions - homework random numbers\obj\Debug\making decisions - homework random numbers.pdb
